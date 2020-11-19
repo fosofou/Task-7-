@@ -1,9 +1,5 @@
 // Task 7.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
-#define __CRTDBG_MAP_ALLOC
-#include <crtdbg.h>
-#define DEBUG_NEW new(_NORMAL_BLOCK, __FILE__, __LINE__)
-#define new DEBUG_NEW
 #include <iostream>
 #include "SLList.h"
 
